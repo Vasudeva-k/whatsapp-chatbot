@@ -85,9 +85,7 @@ Incoming message: hi
 
 ---
 
-##  Demo
 
-(Attach demo video link here)
 
 ---
 
